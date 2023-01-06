@@ -1,0 +1,16 @@
+HelloTest.BasicAssertions 2 0.00465605
+CorrectAnsw.SimpleAssertion 9 0.00458256
+CorrectAnsw.NotSimpleAssertion 6 0.00124665
+VectorChanged.Default 5 0.00169692
+GetProductsAmount.SimpleAssertion 10 0.00109197
+GetProductsAmount.VectorChanged 18 0.000598039
+GetProductAmount.NotSimpleAssertion 11 0.000844064
+IsLeapYear.LeapBy400nNotLeapBy100 17 0.000694159
+IsLeapYear.LeapBy4nNotLeapByElse 16 0.000893119
+IsLeapYear.Exceptions 14 0.000858657
+GetProductsAmount.Exceptions 0 0
+GetProductsAmount.SimpleAssertions 7 0.0065352
+GetProductAmount.NotSimpleAssertions 7 0.00152474
+GetProductsAmount.IsOverflow 2 0
+---
+GetProductsAmount.IsOverflow

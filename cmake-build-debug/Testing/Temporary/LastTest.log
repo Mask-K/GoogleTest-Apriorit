@@ -1,0 +1,201 @@
+Start testing: Jan 06 11:36 O?ieyia?y (ceia)
+----------------------------------------------------------
+1/7 Testing: GetProductsAmount.SimpleAssertions
+1/7 Test: GetProductsAmount.SimpleAssertions
+Command: "D:/Course/GoogleTesting/cmake-build-debug/my_test.exe" "--gtest_filter=GetProductsAmount.SimpleAssertions" "--gtest_also_run_disabled_tests"
+Directory: D:/Course/GoogleTesting/cmake-build-debug
+"GetProductsAmount.SimpleAssertions" start time: Jan 06 11:36 O?ieyia?y (ceia)
+Output:
+----------------------------------------------------------
+Running main() from D:/Course/GoogleTesting/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = GetProductsAmount.SimpleAssertions
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from GetProductsAmount
+[ RUN      ] GetProductsAmount.SimpleAssertions
+[       OK ] GetProductsAmount.SimpleAssertions (0 ms)
+[----------] 1 test from GetProductsAmount (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"GetProductsAmount.SimpleAssertions" end time: Jan 06 11:36 O?ieyia?y (ceia)
+"GetProductsAmount.SimpleAssertions" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/7 Testing: GetProductsAmount.VectorChanged
+2/7 Test: GetProductsAmount.VectorChanged
+Command: "D:/Course/GoogleTesting/cmake-build-debug/my_test.exe" "--gtest_filter=GetProductsAmount.VectorChanged" "--gtest_also_run_disabled_tests"
+Directory: D:/Course/GoogleTesting/cmake-build-debug
+"GetProductsAmount.VectorChanged" start time: Jan 06 11:36 O?ieyia?y (ceia)
+Output:
+----------------------------------------------------------
+Running main() from D:/Course/GoogleTesting/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = GetProductsAmount.VectorChanged
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from GetProductsAmount
+[ RUN      ] GetProductsAmount.VectorChanged
+[       OK ] GetProductsAmount.VectorChanged (0 ms)
+[----------] 1 test from GetProductsAmount (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"GetProductsAmount.VectorChanged" end time: Jan 06 11:36 O?ieyia?y (ceia)
+"GetProductsAmount.VectorChanged" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/7 Testing: GetProductsAmount.IsOverflow
+3/7 Test: GetProductsAmount.IsOverflow
+Command: "D:/Course/GoogleTesting/cmake-build-debug/my_test.exe" "--gtest_filter=GetProductsAmount.IsOverflow" "--gtest_also_run_disabled_tests"
+Directory: D:/Course/GoogleTesting/cmake-build-debug
+"GetProductsAmount.IsOverflow" start time: Jan 06 11:36 O?ieyia?y (ceia)
+Output:
+----------------------------------------------------------
+Running main() from D:/Course/GoogleTesting/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = GetProductsAmount.IsOverflow
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from GetProductsAmount
+[ RUN      ] GetProductsAmount.IsOverflow
+D:/Course/GoogleTesting/Tester.cpp:48: Failure
+Expected equality of these values:
+  call
+    Which is: 2
+  1
+[  FAILED  ] GetProductsAmount.IsOverflow (0 ms)
+[----------] 1 test from GetProductsAmount (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] GetProductsAmount.IsOverflow
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"GetProductsAmount.IsOverflow" end time: Jan 06 11:36 O?ieyia?y (ceia)
+"GetProductsAmount.IsOverflow" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/7 Testing: GetProductAmount.NotSimpleAssertions
+4/7 Test: GetProductAmount.NotSimpleAssertions
+Command: "D:/Course/GoogleTesting/cmake-build-debug/my_test.exe" "--gtest_filter=GetProductAmount.NotSimpleAssertions" "--gtest_also_run_disabled_tests"
+Directory: D:/Course/GoogleTesting/cmake-build-debug
+"GetProductAmount.NotSimpleAssertions" start time: Jan 06 11:36 O?ieyia?y (ceia)
+Output:
+----------------------------------------------------------
+Running main() from D:/Course/GoogleTesting/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = GetProductAmount.NotSimpleAssertions
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from GetProductAmount
+[ RUN      ] GetProductAmount.NotSimpleAssertions
+[       OK ] GetProductAmount.NotSimpleAssertions (0 ms)
+[----------] 1 test from GetProductAmount (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"GetProductAmount.NotSimpleAssertions" end time: Jan 06 11:36 O?ieyia?y (ceia)
+"GetProductAmount.NotSimpleAssertions" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/7 Testing: IsLeapYear.LeapBy400nNotLeapBy100
+5/7 Test: IsLeapYear.LeapBy400nNotLeapBy100
+Command: "D:/Course/GoogleTesting/cmake-build-debug/my_test.exe" "--gtest_filter=IsLeapYear.LeapBy400nNotLeapBy100" "--gtest_also_run_disabled_tests"
+Directory: D:/Course/GoogleTesting/cmake-build-debug
+"IsLeapYear.LeapBy400nNotLeapBy100" start time: Jan 06 11:36 O?ieyia?y (ceia)
+Output:
+----------------------------------------------------------
+Running main() from D:/Course/GoogleTesting/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = IsLeapYear.LeapBy400nNotLeapBy100
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IsLeapYear
+[ RUN      ] IsLeapYear.LeapBy400nNotLeapBy100
+[       OK ] IsLeapYear.LeapBy400nNotLeapBy100 (0 ms)
+[----------] 1 test from IsLeapYear (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"IsLeapYear.LeapBy400nNotLeapBy100" end time: Jan 06 11:36 O?ieyia?y (ceia)
+"IsLeapYear.LeapBy400nNotLeapBy100" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/7 Testing: IsLeapYear.LeapBy4nNotLeapByElse
+6/7 Test: IsLeapYear.LeapBy4nNotLeapByElse
+Command: "D:/Course/GoogleTesting/cmake-build-debug/my_test.exe" "--gtest_filter=IsLeapYear.LeapBy4nNotLeapByElse" "--gtest_also_run_disabled_tests"
+Directory: D:/Course/GoogleTesting/cmake-build-debug
+"IsLeapYear.LeapBy4nNotLeapByElse" start time: Jan 06 11:36 O?ieyia?y (ceia)
+Output:
+----------------------------------------------------------
+Running main() from D:/Course/GoogleTesting/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = IsLeapYear.LeapBy4nNotLeapByElse
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IsLeapYear
+[ RUN      ] IsLeapYear.LeapBy4nNotLeapByElse
+[       OK ] IsLeapYear.LeapBy4nNotLeapByElse (0 ms)
+[----------] 1 test from IsLeapYear (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"IsLeapYear.LeapBy4nNotLeapByElse" end time: Jan 06 11:36 O?ieyia?y (ceia)
+"IsLeapYear.LeapBy4nNotLeapByElse" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/7 Testing: IsLeapYear.Exceptions
+7/7 Test: IsLeapYear.Exceptions
+Command: "D:/Course/GoogleTesting/cmake-build-debug/my_test.exe" "--gtest_filter=IsLeapYear.Exceptions" "--gtest_also_run_disabled_tests"
+Directory: D:/Course/GoogleTesting/cmake-build-debug
+"IsLeapYear.Exceptions" start time: Jan 06 11:36 O?ieyia?y (ceia)
+Output:
+----------------------------------------------------------
+Running main() from D:/Course/GoogleTesting/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = IsLeapYear.Exceptions
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IsLeapYear
+[ RUN      ] IsLeapYear.Exceptions
+[       OK ] IsLeapYear.Exceptions (0 ms)
+[----------] 1 test from IsLeapYear (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"IsLeapYear.Exceptions" end time: Jan 06 11:36 O?ieyia?y (ceia)
+"IsLeapYear.Exceptions" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jan 06 11:36 O?ieyia?y (ceia)
